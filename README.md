@@ -21,13 +21,16 @@ see: [awesome.re](https://awesome.re)
 - [github/ppy](https://github.com/ppy/) - official osu! open source GitHub organization.
 
 ### Community
+- [osugame](https://www.reddit.com/r/osugame/) - A community subreddit, circle slamming strategies.
 - [twitch osu!](https://www.twitch.tv/directory/game/osu!) - Live osu! game streams.
 - [osu!StreamCompanion](https://osu.ppy.sh/forum/t/209616) - osu! livestream companion.
 - [osu!RequestBot](https://osu.ppy.sh/forum/t/175723) - Allow streamers to receive and keep track of song requests on twitch.
+- [OsuCelebrity](https://www.twitch.tv/osucelebrity) - A twitch and osu! bot which spectates players ingame and streams it live to http://twitch.tv/OsuCelebrity.
 
 ### Generators
 - [osusig](https://lemmmy.pw/osusig/) - osu!next Signature Generator.
 - [osu!skinner](https://osuskinner.com/) - A tool for making custom skins easily.
+- [osu! online healthbar generator](https://pqqqqw.pw/generator/) A small online utility that creates custom healthbars for osu!
 
 ### Stats
 - [osu!chan](https://syrin.me/osuchan/) - Enter your osu! username to check out your stats.
