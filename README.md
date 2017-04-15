@@ -11,6 +11,7 @@ see: [awesome.re](https://awesome.re)
 - [Stats](#stats)
 - [Open Source](#open-source)
 - [Cross Platform](#cross-platform)
+- [Other](#other)
 
 ### Official
 - [osu! website](https://osu.ppy.sh) - The official osu! website.
@@ -55,6 +56,12 @@ see: [awesome.re](https://awesome.re)
 - [Osu!BB](https://osu.ppy.sh/forum/t/130589) - A port of osu! for Blackberry.
 - [osu!droid](https://osu.ppy.sh/forum/t/62680) - A port (or a remake) of the original game on the Android platform by Pesets.
 - [opsu!](http://itdelatrisu.github.io/opsu/) - an open-source osu! client.
+
+### Other
+- [osuStuff](https://www.osustuff.org/) - Tools primarily for the game osu but also other things, with a collection of useful resources and content made by the community to make the game a more enjoyable experience!
+- [osu!search](http://osusearch.com/) - An advanced beatmap search engine.
+- [PP+](https://syrin.me/pp+/) - An unofficial osu!Standard ranking system meant to better represent player skill.
+- [osu-pps](https://grumd.github.io/osu-pps/) - A list of farm maps.
 
 More projects - both completed and uncompleted - can be found at [the osu! forums](https://osu.ppy.sh/forum/2).
 ## License
