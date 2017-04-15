@@ -49,6 +49,7 @@ see: [awesome.re](https://awesome.re)
 - [osu!Sync](https://osu.ppy.sh/forum/t/270446/) - A tool which helps you to export, share and backup your beatmaps in a small and handy file.
 - [Osu! Web](https://drewdevault.com/osuweb/) - An online osu! web player.
 - [beatfever](https://github.com/Sulunia/beatfever) - An open-source reimplementation of the osu! "game engine" in love2D.
+- [ezpp](https://github.com/oamaok/ezpp) - A chrome extension which allows you to calculate pp values for a beatmap without manually downloading the beatmap.
 
 ### Cross Platform
 - [osu!stream](https://osustream.com/) Test your ability to tap, slide, hold and spin to the beat in this FREE rhythm game for iPod Touch, iPhone and iPad.
